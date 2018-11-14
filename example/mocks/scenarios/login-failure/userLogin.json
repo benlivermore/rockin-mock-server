@@ -1,0 +1,10 @@
+{
+  "scenario": "login-failure",
+  "type": "replace",
+  "response": {
+   "status": 401,
+   "body": {
+     "message": "Login failed."
+   }
+  }
+}

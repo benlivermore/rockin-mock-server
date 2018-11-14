@@ -1,0 +1,53 @@
+{
+  "scenario": "login-superadmin",
+  "type": "replace",
+  "response": {
+   "status": 200,
+   "body": {
+     "uuid":"597014332adddd401d82ebbd",
+     "version":null,
+     "lastUpdatedTime":1500517427831,
+     "createdBy":null,
+     "lastModifiedBy":null,
+     "name":"blivermore@intellify",
+     "externalUserId":null,
+     "orgId":null,
+     "username":"blivermore@intellify",
+     "password":"a527313ce391c523dd00e754de35183e83f041b9712518b4d64a3484a59c91acfb07f291a9eee0da59e9beb8d128ca3ddd0380257fe9c75a3fb1e33b39306c81",
+     "firstName":"Ben",
+     "lastName":"Livermore",
+     "middleName":null,
+     "eMail":"ben.livermore@intellifylearning.com",
+     "city":null,
+     "country":null,
+     "timeZone":null,
+     "language":null,
+     "description":null,
+     "picture":null,
+     "personalLearningSpaceUUID":null,
+     "active":true,
+     "roles":[
+        {
+           "uuid":"5940b5db0f166b44e5cf68da",
+           "version":null,
+           "lastUpdatedTime":1501552540533,
+           "createdBy":null,
+           "lastModifiedBy":null,
+           "name":null,
+           "roleUniqueKey":"superAdminRole-42-2012",
+           "role":"SuperAdmin",
+           "roleDescription":"LIaaS Admin",
+           "group":"admin",
+           "defaultPage":"admin/organize",
+           "creationTime":1497413083000
+        }
+     ],
+     "groups":[
+        "5940b5db0f166b44e5cf68ed"
+     ],
+     "userPreferences":null,
+     "previousPrincipal":null,
+     "creationTime":1500517427000
+    }
+  }
+}

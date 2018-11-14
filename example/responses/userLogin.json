@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "body": {
+    "uuid": "597014332adddd401d82ebbd",
+    "firstName": "",
+    "lastName": "",
+    "roles": [],
+    "userPreferences": null
+  }
+}

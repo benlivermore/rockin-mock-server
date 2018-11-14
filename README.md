@@ -1,2 +1,4 @@
 # rockin-mock-server
-Rockin' mock server mocks REST endpoints and supports scenario based mocking via api
+A server to easily mock api end points.
+
+Uses node and express.

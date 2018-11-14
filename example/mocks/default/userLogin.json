@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "body": {
+      "uuid":"597785de4659363dcd1d5ade",
+      "version":null,
+      "lastUpdatedTime":1511316269543,
+      "createdBy":null,
+      "lastModifiedBy":null,
+      "name":"htruman",
+      "externalUserId":null,
+      "orgId":"5977855b46593644e7db5ef2",
+      "username":"htruman",
+      "password":"01f0df0bcae0c4ca4741e6957ce76325389d9a174ce18dd2de7377697d0a15fdeae60161ad99e7999a668f00ce6de5d65cd7559d1d2c9c34cdf18125d86ba96d",
+      "firstName":"Harry",
+      "lastName":"Truman",
+      "middleName":null,
+      "eMail":"ben.livermore@intellifylearning.com",
+      "city":"Washington",
+      "country":"USA",
+      "timeZone":null,
+      "language":null,
+      "description":null,
+      "picture":null,
+      "personalLearningSpaceUUID":null,
+      "active":true,
+      "roles":[
+         {
+            "uuid":"5977852a5f7dc6335e8bf586",
+            "version":null,
+            "lastUpdatedTime":1510772097278,
+            "createdBy":null,
+            "lastModifiedBy":null,
+            "name":null,
+            "roleUniqueKey":"essentials-admin",
+            "role":"EssentialsAdmin",
+            "roleDescription":"Essentials Admin",
+            "group":"admin",
+            "defaultPage":"admin/organize",
+            "creationTime":1501005098000
+         }
+      ],
+      "groups":[
+
+      ],
+      "userPreferences":null,
+      "previousPrincipal":null,
+      "creationTime":1501005278000
+   }
+}
