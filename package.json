@@ -1,6 +1,6 @@
 {
   "name": "rockin-mock-server-js",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "Rockin' Mock Server",
   "license": "",
   "main": "dist/mockServer.js",
